@@ -183,6 +183,10 @@ BRVAH(强大而灵活的RecyclerView Adapter)	**[BaseRecyclerViewAdapterHelper](
 
 **[ GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)**（集成IJKplayer、ExoPlayer、MediaPlayer）
 
+### MVVM框架
+
+整合Okhttp+RxJava+Retrofit+Glide**[MVVMHabit](https://github.com/goldze/MVVMHabit)**
+
 ## kotlin版
 
 创新式协程并发网络请求	 **[Net](https://github.com/liangjingkanji/Net)**
