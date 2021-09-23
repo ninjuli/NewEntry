@@ -227,4 +227,5 @@ jetpack组件例子	**[architecture-components-samples](https://github.com/andro
 
 自动化测试	**[appium](https://github.com/appium/appium)**
 
+CameraX + 华为ScanKit 二维码扫描的终极解决方案：https://github.com/HMS-Core/hms-scan-demo  官网：https://developer.huawei.com/consumer/cn/hms/huawei-scankit
 
