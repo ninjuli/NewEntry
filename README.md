@@ -21,6 +21,12 @@
 
 Json自动生成类：GsonFormatPlus	Kotlin版本：JSON To Kotlin
 
+ADB Idea： 是一个适用于 Android Studio 和 Intellij IDEA 的 Android 开发插件，可显著提升开发效率，可以卸载应用，清除应用的缓存数据，重启应用等等。
+在进行 Android 开发调试的时候，经常需要把当前项目 app 的数据清空，以测试用户第一次打开 app 时的情况。
+通过快捷键Ctrl+Alt+Shift+A可以快速调出菜单，然后选择对应的选项即可。
+
+Goodle Library Version Querier：可以查看Google仓库里面依赖库的版本号，使用方法，将光标移到gradle文件里依赖配置的行上，然后按快捷键Ctrl+Alt+Q即可显示
+
 # JDK
 
 ## 下载地址
