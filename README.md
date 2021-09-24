@@ -179,6 +179,8 @@ BRVAH(强大而灵活的RecyclerView Adapter)	**[BaseRecyclerViewAdapterHelper](
 
 集成工具库	**[RxTool](https://github.com/Tamsiree/RxTool)**
 
+Android 权限请求框架 **[XXPermissions](https://github.com/getActivity/XXPermissions)**
+
 ### 数据存储
 
 腾讯	**[MMKV](https://github.com/Tencent/MMKV)**
@@ -229,3 +231,4 @@ jetpack组件例子	**[architecture-components-samples](https://github.com/andro
 
 CameraX + 华为ScanKit 二维码扫描的终极解决方案：https://github.com/HMS-Core/hms-scan-demo  官网：https://developer.huawei.com/consumer/cn/hms/huawei-scankit
 
+Android轮子哥其他开源：https://github.com/getActivity
