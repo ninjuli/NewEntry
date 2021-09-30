@@ -27,6 +27,8 @@ ADB Idea： 是一个适用于 Android Studio 和 Intellij IDEA 的 Android 开�
 
 Goodle Library Version Querier：可以查看Google仓库里面依赖库的版本号，使用方法，将光标移到gradle文件里依赖配置的行上，然后按快捷键Ctrl+Alt+Q即可显示
 
+BugKotlinDocument：解决kotlin生成方法注释无法带参数问题
+
 # JDK
 
 ## 下载地址
