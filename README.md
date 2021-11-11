@@ -29,6 +29,14 @@ Goodle Library Version Querier：可以查看Google仓库里面依赖库的版�
 
 BugKotlinDocument：解决kotlin生成方法注释无法带参数问题
 
+## AS小技巧
+Logcat字体颜色修改：
+1、File->Settings 或Ctrl + Alt +S
+2、找到 Editor -> Colors &Fonts -> Android Logcat 或在上面的搜索框中输入Logcat
+3、点中Verbose , Info, Debug等选项，然后在后面将Use Inberited attributes 去掉勾选
+4、再将 Foreground 前的复选框选上，就可以双击后面的框框去选择颜色了
+5、Apply–>OK
+
 # JDK
 
 ## 下载地址
