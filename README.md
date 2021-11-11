@@ -32,10 +32,13 @@ BugKotlinDocument：解决kotlin生成方法注释无法带参数问题
 ## AS小技巧
 Logcat字体颜色修改：<br/>
 1、File->Settings 或Ctrl + Alt +S<br/>
-2、找到 Editor -> Colors &Fonts -> Android Logcat 或在上面的搜索框中输入Logcat<br/>
+2、找到 Editor -> Colors &Fonts（新版本是Color Scheme） -> Android Logcat 或在上面的搜索框中输入Logcat<br/>
 3、点中Verbose , Info, Debug等选项，然后在后面将Use Inberited attributes 去掉勾选<br/>
 4、再将 Foreground 前的复选框选上，就可以双击后面的框框去选择颜色了<br/>
 5、Apply–>OK 
+
+自动生成类头部注释：
+File -> Settings -> Editor -> File and Code Templates -> 右侧标签选择 includes -> File Header，小窗内编辑需要的内容即可
 
 # JDK
 
