@@ -40,6 +40,9 @@ Logcat字体颜色修改：<br/>
 自动生成类头部注释：
 File -> Settings -> Editor -> File and Code Templates -> 右侧标签选择 includes -> File Header，小窗内编辑需要的内容即可
 
+批量删除整行空格：<br/>
+Ctrl+Shift+R打开Replace，输入^\s*\n，选中Regex方式，点击Replace All，然后Ctrl+Alt+L格式化代码，漂亮的代码出来了
+
 # JDK
 
 ## 下载地址
