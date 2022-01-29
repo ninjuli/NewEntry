@@ -175,6 +175,8 @@ BRVAH(强大而灵活的RecyclerView Adapter)	**[BaseRecyclerViewAdapterHelper](
 
 腾讯UI库	**[QMUI](https://github.com/Tencent/QMUI_Android)**
 
+强大的弹框	**[XPopup](https://github.com/li-xiaojun/XPopup)**
+
 ## 图片库
 
 支持缩放的ImageView	**[PhotoView](https://github.com/Baseflow/PhotoView)**
